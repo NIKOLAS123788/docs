@@ -54,9 +54,7 @@ After {% data variables.product.prodname_dotcom %} reviews your application, you
 {% data reusables.sponsors.add-welcome-message %}
 {% data reusables.sponsors.save-tier-draft %}
 {% data reusables.sponsors.review-and-publish-tier %}
-{% data reusables.sponsors.add-more-tiers %}
-
-## Submitting your bank information
+{% data 
 
 If you live in a supported region, you can follow these instructions to submit your bank information by creating a Stripe Connect account. Your region of residence and the region of your bank account must match. {% data reusables.sponsors.stripe-supported-regions %}
 
